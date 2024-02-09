@@ -1,16 +1,16 @@
-### Hi there 👋
+## just_lofe - java programmer
 
-<!--
-**justlofe/justlofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗨️ DOB: 6th of April
 
-Here are some ideas to get you started:
+🕰️ Stydiyng in middle-school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Known languages: English, Russian
+
+### My minecraft projects
+- SFP
+- x-Plugins
+- [MODORU](https://discord.modoru.fun)
+
+### Bio
+- [Telegram](https://t.me/just_lofe)
+- [Boosty](https://boosty.to/just_lofe) (just support)
