@@ -4,11 +4,11 @@
 
 🕰️ Stydiyng in middle-school
 
-📖 Known languages: English, Russian
+📖 Known languages: English, Russian, Body language (lol)
 
 ### My minecraft projects
 - SFP
-- x-Plugins
+- [xPlugin](https://github.com/xPlugin)'s
 - [MODORU](https://discord.modoru.fun)
 
 ### Bio
