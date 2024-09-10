@@ -9,7 +9,7 @@
 ### My minecraft projects
 - SFP
 - [xPlugin](https://github.com/xPlugin)'s
-- [MODORU](https://discord.modoru.fun)
+- [MODORU](https://discord.modoru.space)
 
 ### Bio
 - [Telegram](https://t.me/just_lofe)
