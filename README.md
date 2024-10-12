@@ -1,5 +1,7 @@
 ## just_lofe - java programmer
 
+[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,discord,bots,github,idea,mysql)](https://skillicons.dev)
+
 🗨️ DOB: 6th of April
 
 🕰️ Stydiyng in middle-school
