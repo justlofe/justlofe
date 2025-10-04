@@ -7,7 +7,7 @@
 🌐 Known languages: 
 - English (C1), 
 - Russian (native)
-- Japansese (currently learning, going to N5)
+- Japanese (currently learning, going to N5)
 
 ### My minecraft projects
 - [xPlugin](https://github.com/xPlugin)'s
