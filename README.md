@@ -16,3 +16,7 @@
 
 ### Commissions
 If you want to place an order with me, my Discord DM is open for you.
+
+
+### Visitors count
+![justlofe](https://count.getloli.com/@justlofe?theme=original-new)
